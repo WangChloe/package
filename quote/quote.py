@@ -25,7 +25,7 @@
 #             view.replace(edit, region, code)
 import sublime, sublime_plugin, re
 
-class ChloeCommand(sublime_plugin.TextCommand):
+class quoteCommand(sublime_plugin.TextCommand):
 
     def run(self, edit, action='single'):
         view = self.view
