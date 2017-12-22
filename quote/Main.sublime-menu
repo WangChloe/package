@@ -1,0 +1,23 @@
+[
+    {
+        "id": "edit",
+        "children":
+        [
+            {
+                "caption": "-"
+            }, 
+            {
+                "id": "chloe",
+                "caption": "chloe",
+                "children":
+                [
+                    {
+                        "caption": "Quote '<HTML>' + '</HTML>';",
+                        "command": "chloew",
+                        "args": { "action": "single"}
+                    }
+                ]
+            }
+        ]
+    }
+]
